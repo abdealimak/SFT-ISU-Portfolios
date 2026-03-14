@@ -17,6 +17,7 @@ This repo fixes that. It's a single place where every SFT-ISU student — across
 
 **Your portfolio tells your story. Share it. A batchmate might collaborate with you. A junior might look up to you. A senior might reach out.** 🚀
 
+> ⭐ If you find this useful, star the repo — it helps others discover it!
 ---
 
 ## 📌 How to Add Yours
@@ -90,5 +91,4 @@ This repo fixes that. It's a single place where every SFT-ISU student — across
 
 ---
 
-> ⭐ If you find this useful, star the repo — it helps others discover it!
 <p align="center">Made with ❤️ by <a href="https://github.com/abdealimak">Abdeali Makda</a></p>
