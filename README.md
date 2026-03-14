@@ -81,4 +81,4 @@ Browse for inspiration, find your batchmates, or add your own!
 
 ---
 
-<p align="center">Made with ❤️ by the SFT-ISU community</p>
+<p align="center">Made with ❤️ by abdealimak</p>
