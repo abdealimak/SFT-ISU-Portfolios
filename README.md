@@ -73,7 +73,7 @@ This repo fixes that. It's a single place where every SFT-ISU student — across
 *(none yet — open a PR!)*
 
 ### Jeff Bezos Cohort
-*(none yet — open a PR!)*
+* [Daksh Srivastava](https://daksh.is-a.dev/)
 
 ### Larry Page Cohort
 * [Ramjee Mishra](https://ramjeemishra.com/)
